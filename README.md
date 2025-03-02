@@ -1,27 +1,29 @@
 **Project Structure**
+📂 sleekify-creative-elevate  
+├── 📁 public  
+│   ├── 🖼️ og-image.png  
+│   └── 📄 index.html  
+├── 📁 src  
+│   ├── 📂 components  
+│   │   ├── 📄 About.tsx  
+│   │   ├── 📄 Contact.tsx  
+│   │   ├── 📄 Footer.tsx  
+│   │   ├── 📄 Header.tsx  
+│   │   ├── 📄 Hero.tsx  
+│   │   ├── 📄 Modules.tsx  
+│   │   ├── 📄 Process.tsx  
+│   │   ├── 📄 ThemeProvider.tsx  
+│   │   └── 📄 ThemeToggle.tsx  
+│   ├── 📂 pages  
+│   │   └── 📄 Index.tsx  
+│   ├── 📄 main.tsx  
+│   └── 📄 App.tsx  
+├── 📄 package.json  
+├── 📄 tsconfig.json  
+└── 📄 README.md  
 
-sleekify-creative-elevate/
-├── public/
-│   ├── og-image.png
-│   └── index.html
-├── src/
-│   ├── components/
-│   │   ├── About.tsx
-│   │   ├── Contact.tsx
-│   │   ├── Footer.tsx
-│   │   ├── Header.tsx
-│   │   ├── Hero.tsx
-│   │   ├── Modules.tsx
-│   │   ├── Process.tsx
-│   │   ├── ThemeProvider.tsx
-│   │   └── ThemeToggle.tsx
-│   ├── pages/
-│   │   └── Index.tsx
-│   ├── main.tsx
-│   └── App.tsx
-├── package.json
-├── tsconfig.json
-└── README.mdFollow these steps:
+
+Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
