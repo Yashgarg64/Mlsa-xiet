@@ -74,7 +74,7 @@ const Footer = () => {
               
               <div className="aspect-[4/3] rounded-lg overflow-hidden">
                 <img 
-                  src="https://mlsaxiet.netlify.app/assets/logo-D_oYnY7j.png" 
+                  src="logo.png" 
                   alt="MLSAXIET Logo" 
                   className="w-full h-full object-contain p-6"
                 />

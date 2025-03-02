@@ -38,7 +38,7 @@ const Hero = () => {
           <div className="md:col-span-7 space-y-6">
             <div className="flex items-center space-x-2 mb-4">
               <img 
-                src="https://mlsaxiet.netlify.app/assets/logo-D_oYnY7j.png" 
+                src="logo.png" 
                 alt="MLSAXIET Logo" 
                 className="h-12 w-auto"
               />
@@ -84,7 +84,7 @@ const Hero = () => {
               
               <div className="aspect-[4/3] rounded-lg overflow-hidden">
                 <img 
-                  src="https://mlsaxiet.netlify.app/assets/logo-D_oYnY7j.png" 
+                  src="logo.png" 
                   alt="MLSAXIET Logo" 
                   className="w-full h-full object-contain p-6"
                 />
