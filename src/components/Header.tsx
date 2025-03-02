@@ -122,7 +122,7 @@ const Header = () => {
         
         <div className="mt-12 border-t border-white/10 dark:border-white/5 pt-8">
           <p className="text-sm text-muted-foreground">
-            &copy; {new Date().getFullYear()} L7 Studio
+            &copy; {new Date().getFullYear()} MLSA XIET
           </p>
         </div>
       </div>
